@@ -20,3 +20,6 @@ In this lab I practiced Linux user and file permission management using Ubuntu.
 - chmod
 - adduser
 - groups
+## Issues Encountered
+During the lab I initially experienced login errors because the password for the created user was entered incorrectly. 
+I verified the user account and reset the password, then successfully accessed the account.
